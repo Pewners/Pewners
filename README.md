@@ -1,1 +1,1 @@
-Hello my name is Jason and I'm currently studying Games Design in College. Though, I mainly focus on the programming side. I'd like to warn you that some of the commits I've made in some of my earlier projects are a bit crazy and may include swearing and inappropiate comments and I apologise in advance if you manage to see that.
+some of these commits probably have swearing. my bad
